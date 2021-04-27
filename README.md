@@ -18,15 +18,12 @@
 * [NPM](https://www.npmjs.com/)
 
 ## Course
-<<<<<<< HEAD
 Thanks for taking the [Introduction to Node.js course](https://frontendmasters.com/courses/node-js/) -- the course has two parts: slides and exercises. The slides describe the exercises in detail. Each exercise have a folder.
 
 ## Exercises
 
-=======
 This course has two parts, slides and exercises. The slides describe the exercises in detail. Each exercise has a folder
 ## Exercises
->>>>>>> 964352c5164b09d15f03f512cca8c4ef1fc6a600
 ### Installing Node
 Install node with [node version manager (NVM)](https://github.com/creationix/nvm#installation). NVM was created by the community and not the Nodejs foundation. However, it is the recommended approach. After installing nvm, use nvm to install the lates version of Nodejs, which at this time is `10` and set it to the default version
 ```bash
