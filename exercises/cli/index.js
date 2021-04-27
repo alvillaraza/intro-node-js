@@ -1,7 +1,7 @@
-const program = require('commander')
-const { prompt } = require('inquirer')
-const {newContactPrompts} = require('./prompts')
-const {getContacts, saveContacts} = require('./utils')
+const program = require('commander') //internal module
+const { prompt } = require('inquirer') //internal module
+const {newContactPrompts} = require('./prompts') //module you created
+const {getContacts, saveContacts} = require('./utils') //module you created
 
 program
   .version('0.0.1')
